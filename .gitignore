@@ -1,0 +1,8 @@
+API_Gateway/__pycache__
+API_Gateway/.idea
+API_Gateway/venv
+FP_Fixed/.idea
+FP_Fixed/db.sqlite3
+FP_Fixed/__pycache__
+FP_Fixed/venv
+*.pyc
